@@ -1,0 +1,25 @@
+{
+  "name": "showerthoughtbot",
+  "version": "1.0.0",
+  "description": "scrapes /r/showerthoughts and posts to twitter",
+  "main": "showerBot.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "nightmare": "^2.10.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heythisispaul/showerThoughtBot.git"
+  },
+  "author": "paul richard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heythisispaul/showerThoughtBot/issues"
+  },
+  "homepage": "https://github.com/heythisispaul/showerThoughtBot#readme"
+}
